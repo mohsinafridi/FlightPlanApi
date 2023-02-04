@@ -5,6 +5,6 @@
         Success,
         BadRequest,
         NotFound,
-        ServerError 
+        ServerError
     }
 }
